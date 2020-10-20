@@ -3,7 +3,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=yceruto&show_icons=true" alt="yceruto" />
   </a>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=yceruto" alt="yceruto" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=yceruto" alt="yceruto" /> </p>
 </p>
 
 <!--
