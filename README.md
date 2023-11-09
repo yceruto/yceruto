@@ -1,6 +1,10 @@
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/yceruto)
 <img src="https://komarev.com/ghpvc/?username=yceruto" alt="yceruto" />
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yceruto&theme=dark&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yceruto&theme=dark&layout=compact)
+
 <!--
 **yceruto/yceruto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
