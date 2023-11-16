@@ -12,6 +12,9 @@
   </tr>
 </table>
 
+I am always seeking to enhance my developer experience, but also for you 💌
+tags: clean architecture, SOLID, DDD, design patterns
+
 <!--
 **yceruto/yceruto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
