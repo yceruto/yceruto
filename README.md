@@ -1,5 +1,4 @@
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/yceruto)
-<img src="https://komarev.com/ghpvc/?username=yceruto" alt="yceruto" /> 
+<img src="https://komarev.com/ghpvc/?username=yceruto" alt="yceruto" /> [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/yceruto) <a href="https://www.buymeacoffee.com/yceruto">☕️</a>
 
 <table>
   <tr>
@@ -13,11 +12,8 @@
 </table>
 
 <p>
-  Always seeking to enhance development experience 💌
-  <br>Tags: clean architecture, SOLID, DDD, design patterns
+  <br>Tags: Clean-Architectures, SOLID, DDD, Design-Patterns, Developer-Experience
 </p>
-
-<a href="https://www.buymeacoffee.com/yceruto">Buy me a coffee</a>
 
 <!--
 **yceruto/yceruto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
