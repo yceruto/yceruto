@@ -12,7 +12,7 @@
 </table>
 
 <p>
-  <br>Tags: Clean-Architectures, SOLID, DDD, Design-Patterns, Developer-Experience
+  <br>I do believe in SOLID principles. Also trying to make developers' lives better https://github.com/open-solid
 </p>
 
 <!--
