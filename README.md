@@ -11,8 +11,6 @@
   </tr>
 </table>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yceruto&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-
 <p>
   <br>I do believe in SOLID principles. Also trying to make developers' lives better https://github.com/open-solid
 </p>
