@@ -13,7 +13,7 @@
 
 <p>
   <br>
-  Building my own version of current concepts on https://github.com/open-solid just for fun.
+  Building https://github.com/open-solid just for fun.
 </p>
 
 <!--
