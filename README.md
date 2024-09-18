@@ -1,5 +1,10 @@
 <img src="https://komarev.com/ghpvc/?username=yceruto" alt="yceruto" /> [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/yceruto) <a href="https://www.buymeacoffee.com/yceruto">☕️</a>
 
+<style>
+  table td {
+    border: none !important;
+  }
+</style>
 <table>
   <tbody>
     <tr>
