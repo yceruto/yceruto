@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=yceruto" alt="yceruto" /> [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/yceruto) <a href="https://www.buymeacoffee.com/yceruto">☕️</a>
 
-<img alt="My GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=yceruto&show_icons=true&count_private=true&bg_color=0d1117&text_color=f0f6fc&hide_title=false&hide_border=true"/> <img alt="My GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yceruto&layout=compact&langs_count=10&bg_color=0d1117&text_color=f0f6fc&hide_title=true&hide_border=true"/>
+<img alt="My GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=yceruto&show_icons=true&count_private=true&bg_color=0d1117&text_color=f0f6fc&hide_title=false&hide_border=true" width="50%"/> <img alt="My GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yceruto&layout=compact&langs_count=10&bg_color=0d1117&text_color=f0f6fc&hide_title=true&hide_border=true" width="50%"/>
 
 <p>
   <br>
