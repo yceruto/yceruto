@@ -4,7 +4,7 @@
 
 <p>
   <br>
-  Building https://github.com/open-solid just for fun.
+  Building https://github.com/open-solid for educational purposes.
 </p>
 
 <!--
